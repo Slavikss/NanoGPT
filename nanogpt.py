@@ -5,7 +5,7 @@ from torch.nn import functional as F
 
 # ----------------
 PRED_LEN = 3000 #Length of predicted text
-FILE_NAME = 'names.txt' #Name of file of train dataset
+FILE_NAME = 'input.txt' #Name of file of train dataset
 # ----------------
 # hyperparameters
 batch_size = 64 
