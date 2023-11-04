@@ -1,5 +1,3 @@
-# README.md
-
 ## NanoGPT Implementation
 
 This repository provides an implementation of the NanoGPT model for language modeling, following Andrej Karpathy's guide from his YouTube tutorial.
