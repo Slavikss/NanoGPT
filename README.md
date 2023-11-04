@@ -24,8 +24,10 @@ NanoGPT is a minimal GPT-like language model that can predict the next token in 
 
 ### Usage
 
-Run the `nanogpt.py` script to train the model and generate text:
+Run the `nanogpt.py` script to train the model and generate text
 
+files `input.txt` and `names.txt` are given for example. First is Sheakespeare's works and second is human names
+ 
 ```bash
 python nanogpt.py 
 ```
